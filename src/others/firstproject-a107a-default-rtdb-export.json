@@ -1,0 +1,15 @@
+{
+  "users" : [ null, {
+    "email" : "pusparghyamukherjee10@gmail.com",
+    "profile_picture" : "https://google.com",
+    "username" : "Pusparghya"
+  }, {
+    "email" : "satyajitmanna1995@gmail.com",
+    "profile_picture" : "https://yahoo.com",
+    "username" : "Satyajit"
+  }, {
+    "email" : "ranajitkundu1993@gmail.com",
+    "profile_picture" : "https://bingbar.com",
+    "username" : "ranajit"
+  } ]
+}
